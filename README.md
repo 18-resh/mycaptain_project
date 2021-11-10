@@ -1,2 +1,1 @@
-# mycaptain_project
-Python programming
+Print("Hello world")
